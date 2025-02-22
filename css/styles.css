@@ -85,7 +85,7 @@ main.main-container {
 }
 
 .main-content-container {
-    margin: 0px;
+    margin: 0rem 0rem 1.5rem 0rem;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -126,4 +126,22 @@ main.main-container {
     margin: 0px;
     font-size: 0.875rem;
     color: var(--gray-500);
+}
+
+.author-container {
+    width: 8.0625rem;
+    height: 2rem;
+    display:flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.author-container img {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+
+.author-name {
+    font-size: 0.75rem;
 }
