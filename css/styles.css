@@ -144,4 +144,11 @@ main.main-container {
 
 .author-name {
     font-size: 0.75rem;
+    color: var(--gray-950);
+}
+
+@media screen and (min-width: 760px) {
+    main.main-container {
+        width: 24rem;
+    }
 }
