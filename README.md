@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./BLOG-COMPONENT.jpg)
+![](BLOG-COMPONENT.jpg)
 
 
 ### Links
