@@ -123,6 +123,11 @@ main.main-container {
     color: var(--gray-950);
 }
 
+.title-copy:hover {
+    cursor: pointer;
+    color: var(--yellow);
+}
+
 .description-copy {
     margin: 0px;
     font-size: 0.875rem;
