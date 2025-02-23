@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](BLOG-COMPONENT.jpg)
+![](assets/BLOG-COMPONENT.jpg)
 
 
 ### Links
