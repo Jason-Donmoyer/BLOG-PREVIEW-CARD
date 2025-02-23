@@ -104,6 +104,7 @@ main.main-container {
     background: var(--yellow);
     border-radius: 0.25rem;
 }
+
 .category-copy {
     font-size: 0.75rem;
     color: var(--gray-950);
@@ -148,7 +149,34 @@ main.main-container {
 }
 
 @media screen and (min-width: 760px) {
+
     main.main-container {
         width: 24rem;
+    }
+
+    .category-container {
+        width: 5.125rem;
+        height: 1.8125rem;
+    }
+
+    .category-copy {
+        font-size: 0.875rem;
+    }
+
+    .publish-date-copy {
+        height: 1.3125rem;
+        font-size: 0.875rem;
+    }
+
+    .title-copy {
+        font-size: 1.5rem;
+    }
+
+    .description-copy {
+        font-size: 1rem;
+    }
+
+    .author-name {
+        font-size: 0.875rem;
     }
 }
